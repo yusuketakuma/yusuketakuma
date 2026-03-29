@@ -13,6 +13,7 @@
 
 ### 🏥 [CareRoute Rx](https://github.com/yusuketakuma/careroute-rx)
 在宅訪問薬局の処方箋・患者管理システム（Next.js）
+🔗 [careviax-ph.vercel.app](https://careviax-ph.vercel.app)
 
 ## 無料ツール
 
@@ -20,14 +21,14 @@
 レセプト返戣・腎機能用量・服薬指導・在宅医療など24選
 🔗 [pharma-free-tools.vercel.app](https://pharma-free-tools.vercel.app)
 
-| ツール | リポジトリ |
-|--------|-----------|
-| 返戣理由テンプレート | [pharma-rejection-template](https://github.com/yusuketakuma/pharma-rejection-template) |
-| 腎機能別用量計算 | [pharma-renal-dose-tool](https://github.com/yusuketakuma/pharma-renal-dose-tool) |
-| 服薬指導チェックリスト | [pharma-medication-guidance-tool](https://github.com/yusuketakuma/pharma-medication-guidance-tool) |
-| 在宅報告書 | [pharma-homecare-report](https://github.com/yusuketakuma/pharma-homecare-report) |
-| DI検索 | [pharma-di-query](https://github.com/yusuketakuma/pharma-di-query) |
-| お薬持参支援 | [pharma-bringing-medicine](https://github.com/yusuketakuma/pharma-bringing-medicine) |
+| ツール | リンク |
+|--------|--------|
+| 返戣理由テンプレート | [pharma-rejection-template](https://yusuketakuma.github.io/pharma-rejection-template/) |
+| 腎機能別用量計算 | [pharma-renal-dose-tool](https://yusuketakuma.github.io/pharma-renal-dose-tool/) |
+| 服薬指導チェックリスト | [pharma-medication-guidance-tool](https://yusuketakuma.github.io/pharma-medication-guidance-tool/) |
+| 在宅報告書 | [pharma-homecare-report](https://yusuketakuma.github.io/pharma-homecare-report/) |
+| DI検索 | [pharma-di-query](https://yusuketakuma.github.io/pharma-di-query/) |
+| お薬持参支援 | [pharma-bringing-medicine](https://yusuketakuma.github.io/pharma-bringing-medicine/) |
 
 ## スキル
 
